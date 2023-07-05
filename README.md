@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, nice to meet you 👋
 
 ## Profile
 Digital Marketing professional with 7+ years of experience, looking to leverage my experience,  more recently acquired technical skills (Python, Machine learning), and my passion for data science to transition toward a data analytics role. I have a strong data science and statistics background, having obtained a university psychology degree and graduated from the HyperionDev Data Science Bootcamp.  
